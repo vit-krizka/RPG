@@ -35,6 +35,3 @@ Create `Hero`, `Barbarian`, `Wizard`, `Hunter` and `Kobold` classes
 - every kobold can `Attack()` and `GetStatus()` method
 - `Attack(hero)` attacks hero (not the kobold) and lowers hero\`s `HitPoint` by kobold\`s `AttackNumber` minus enemy\`s `DefenseNumber`
 - `GetStatus()` print this: `Hi, I am a kobold with 10 HP` or `I am dead kobold` (if there aren‘t any HP)
-<br>
-
-![image](https://user-images.githubusercontent.com/99694929/165537552-f8963d83-25c2-4840-874d-bed327eb4420.png)
